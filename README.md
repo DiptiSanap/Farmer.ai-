@@ -1,4 +1,7 @@
 # Farmer.ai
+<img width="960" alt="image" src="https://github.com/SurajSanap/Farmer.ai/assets/101057653/f9147394-b3a4-47e6-b27f-4e4b6928a9b7">
+
+<img width="948" alt="image" src="https://github.com/SurajSanap/Farmer.ai/assets/101057653/c19489ef-b766-4e04-89ed-3cd10e67c9a8">
 
 ## Problem Definition
 * Farmers face challenges in choosing the right crop based on soil characteristics, leading to reduced productivity and soil degradation.
